@@ -37,6 +37,8 @@ x64/
 *.vssscc
 .builds
 
+# SrcML Files
+SrcML Files/*.xml
 # Visual C++ cache files
 ipch/
 *.aps

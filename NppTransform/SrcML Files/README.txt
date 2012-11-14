@@ -1,0 +1,1 @@
+When you create a SrcML Transform project from within Visual Studio it will automatically add this directory.
